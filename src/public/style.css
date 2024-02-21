@@ -1,0 +1,10 @@
+#canvas {
+    background-color: beige;
+}
+
+#canvasDiv {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 97vh;
+}
